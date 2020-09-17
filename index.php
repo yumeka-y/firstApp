@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -9,3 +10,7 @@
     <p>はじめてのwebサイトへようこそ</p>
   </body>
 </html>
+=======
+<?php echo "hello!" ?>
+<?php echo "see you"; ?>
+>>>>>>> origin/master
